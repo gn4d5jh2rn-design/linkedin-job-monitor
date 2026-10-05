@@ -1,0 +1,50 @@
+{
+  "initialized": true,
+  "jobs": {
+    "4471929248": {
+      "id": "4471929248",
+      "company": "Google",
+      "company_raw": "Google",
+      "title": "AI Outcome Engineer, Forward Deployed Engineering",
+      "location": "Milan, Lombardy, Italy",
+      "posted": "2026-09-29",
+      "url": "https://it.linkedin.com/jobs/view/ai-outcome-engineer-forward-deployed-engineering-at-google-4471929248"
+    },
+    "4462937582": {
+      "id": "4462937582",
+      "company": "Google",
+      "company_raw": "Google",
+      "title": "Data Analytics and AI Sales Specialist, Google Cloud",
+      "location": "Milan, Lombardy, Italy",
+      "posted": "2026-09-28",
+      "url": "https://it.linkedin.com/jobs/view/data-analytics-and-ai-sales-specialist-google-cloud-at-google-4462937582"
+    },
+    "4428353601": {
+      "id": "4428353601",
+      "company": "Microsoft",
+      "company_raw": "Microsoft",
+      "title": "CE Field Service Engineer",
+      "location": "Milan, Lombardy, Italy",
+      "posted": "2026-09-29",
+      "url": "https://it.linkedin.com/jobs/view/ce-field-service-engineer-at-microsoft-4428353601"
+    },
+    "4447792871": {
+      "id": "4447792871",
+      "company": "Microsoft",
+      "company_raw": "Microsoft",
+      "title": "Critical Environment Technician",
+      "location": "Milan, Lombardy, Italy",
+      "posted": "2026-10-03",
+      "url": "https://it.linkedin.com/jobs/view/critical-environment-technician-at-microsoft-4447792871"
+    },
+    "4475312624": {
+      "id": "4475312624",
+      "company": "Microsoft",
+      "company_raw": "Microsoft",
+      "title": "Logistics Technician",
+      "location": "Milan, Lombardy, Italy",
+      "posted": "2026-10-03",
+      "url": "https://it.linkedin.com/jobs/view/logistics-technician-at-microsoft-4475312624"
+    }
+  }
+}
