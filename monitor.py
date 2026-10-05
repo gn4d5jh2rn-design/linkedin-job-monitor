@@ -149,7 +149,7 @@ def parse_cards(html: str, search_cfg: dict) -> list[dict]:
     return list(unique.values())
 
 
-def fetch_jobs(session, search_cfg: dict, max_pages: int = 10) -> list[dict]:
+def fetch_jobs(session, search_cfg: dict, max_pages: int = 2) -> list[dict]:
     all_jobs = {}
 
     for page in range(max_pages):
